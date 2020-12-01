@@ -12,7 +12,7 @@ Features:
 
 - Create an S3 bucket 
 - Create a folder (e.g. scripts) into S3 bucket and copy script (.py) and paramiko wheel file.
-- Create a secret at AWS Secrets Manager with name sftp, and value as plaintext:
+- Create a secret in AWS Secrets Manager with name sftp, and value as plaintext:
   Change values accordingly.
 
 ```
